@@ -22,4 +22,4 @@ I am a final-year **B.Tech Computer Science & Engineering** student specializing
 * Building high-throughput RESTful data ingestion loops and model serving pipelines.
 * Refining classification metrics, baseline tuning, and structured system optimization workflows.
 
-📥 **Connect with me:** Let's build scalable configurations together! [Link your LinkedIn profile here]
+📥 **Connect with me:** Let's build scalable configurations together! @https://www.linkedin.com/in/ayush-aggarwal-41382b28b/
